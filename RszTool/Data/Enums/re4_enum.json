@@ -36666,7 +36666,7 @@
         "Value": 275638656
       },
       {
-        "Name": "it_wp4600_00_0 (Bolt Thrower)",
+        "Name": "it_wp4600_00_0 (Ballista (siege catapult firing stone blocks))",
         "Value": 275795456
       },
       {
@@ -36674,7 +36674,7 @@
         "Value": 275795616
       },
       {
-        "Name": "it_wp4701_00_0",
+        "Name": "it_wp4701_00_0 (Flamethrower)",
         "Value": 275957056
       },
       {
@@ -36858,7 +36858,7 @@
         "Value": 278217856
       },
       {
-        "Name": "it_wp6300_00_0",
+        "Name": "it_wp6300_00_0 (XM96E1)",
         "Value": 278515456
       },
       {
@@ -55690,27 +55690,27 @@
         "Value": 0
       },
       {
-        "Name": "+{0}% handgun ammo craft bonus frequency.",
+        "Name": "StatusEffectID_00_010_000_0 (+{0}% handgun ammo craft bonus frequency)",
         "Value": 100000
       },
       {
-        "Name": "+{0}% magnum ammo craft bonus frequency.",
+        "Name": "StatusEffectID_00_010_010_0 (+{0}% magnum ammo craft bonus frequency)",
         "Value": 100100
       },
       {
-        "Name": "+{0}% shotgun shells craft bonus frequency.",
+        "Name": "StatusEffectID_00_010_020_0 (+{0}% shotgun shells craft bonus frequency)",
         "Value": 100200
       },
       {
-        "Name": "+{0}% rifle ammo craft bonus frequency.",
+        "Name": "StatusEffectID_00_010_030_0 (+{0}% rifle ammo craft bonus frequency)",
         "Value": 100300
       },
       {
-        "Name": "+{0}% submachine gun ammo craft bonus frequency.",
+        "Name": "StatusEffectID_00_010_040_0 (+{0}% submachine gun ammo craft bonus frequency)",
         "Value": 100400
       },
       {
-        "Name": "+{0}% attachable mines craft bonus frequency.",
+        "Name": "StatusEffectID_00_010_050_0 (+{0}% attachable mines craft bonus frequency.)",
         "Value": 100500
       },
       {
@@ -55718,7 +55718,7 @@
         "Value": 100600
       },
       {
-        "Name": "+{0}% bolts craft bonus frequency.",
+        "Name": "StatusEffectID_00_010_070_0 (+{0}% bolts craft bonus frequency)",
         "Value": 100700
       },
       {
@@ -55726,83 +55726,83 @@
         "Value": 150000
       },
       {
-        "Name": "{0} gunpowder used when crafting.",
+        "Name": "StatusEffectID_00_020_000_0 ({0} gunpowder used when crafting)",
         "Value": 200000
       },
       {
-        "Name": "+{0}% health recovery for green herbs.",
+        "Name": "StatusEffectID_00_030_000_0 (+{0}% health recovery for green herbs)",
         "Value": 300000
       },
       {
-        "Name": "+{0}% health recovery for all egg types.",
+        "Name": "StatusEffectID_00_030_010_0 (+{0}% health recovery for all egg types)",
         "Value": 300100
       },
       {
-        "Name": "+{0}% health recovery for black bass.",
+        "Name": "StatusEffectID_00_030_020_0 (+{0}% health recovery for black bass)",
         "Value": 300200
       },
       {
-        "Name": "+{0}% health recovery for vipers.",
+        "Name": "StatusEffectID_00_030_030_0 (+{0}% health recovery for vipers)",
         "Value": 300300
       },
       {
-        "Name": "+{0}% running speed.",
+        "Name": "StatusEffectID_00_040_000_0 (+{0}% running speed)",
         "Value": 400000
       },
       {
-        "Name": "Increased drop rate for red herbs.",
+        "Name": "StatusEffectID_00_050_000_0 (Increased drop rate for red herbs)",
         "Value": 500000
       },
       {
-        "Name": "Increased drop rate for handgun ammo.",
+        "Name": "StatusEffectID_00_050_010_0 (Increased drop rate for handgun ammo)",
         "Value": 500100
       },
       {
-        "Name": "Increased drop rate for resources (L).",
+        "Name": "StatusEffectID_00_050_020_0 (Increased drop rate for resources (L))",
         "Value": 500200
       },
       {
-        "Name": "Increased drop rate for Pesetas.",
+        "Name": "StatusEffectID_00_050_030_0 (Increased drop rate for Pesetas)",
         "Value": 500300
       },
       {
-        "Name": "Increased drop rate for gunpowder.",
+        "Name": "StatusEffectID_00_050_040_0 (Increased drop rate for gunpowder)",
         "Value": 500400
       },
       {
-        "Name": "StatusEffectID_00_050_050_0",
+        "Name": "StatusEffectID_00_050_050_0 (Increased chance of material (small) drops)",
         "Value": 500500
       },
       {
-        "Name": "StatusEffectID_00_050_060_0",
+        "Name": "StatusEffectID_00_050_060_0 (Green Herb Drop Chance Increased)",
         "Value": 500600
       },
       {
-        "Name": "{0}% off the rocket launcher.",
+        "Name": "StatusEffectID_00_060_000_0 ({0}% off the rocket launcher)",
         "Value": 600000
       },
       {
-        "Name": "{0}% off resources.",
+        "Name": "StatusEffectID_00_060_010_0 ({0}% off resources)",
         "Value": 600100
       },
       {
-        "Name": "+{0}% ammo resale value.",
+        "Name": "StatusEffectID_00_070_000_0 (+{0}% ammo resale value)",
         "Value": 700000
       },
       {
-        "Name": "+{0}% recovery item resale value.",
+        "Name": "StatusEffectID_00_070_010_0 (+{0}% recovery item resale value.)",
         "Value": 700100
       },
       {
-        "Name": "+{0}% weapon resale value.",
+        "Name": "StatusEffectID_00_070_020_0 (+{0}% weapon resale value.)",
         "Value": 700200
       },
       {
-        "Name": "{0}% off knife repairs.",
+        "Name": "StatusEffectID_00_080_000_0 ({0}% off knife repairs.)",
         "Value": 800000
       },
       {
-        "Name": "{0}% off body armor repairs.",
+        "Name": "StatusEffectID_00_080_010_0 ({0}% off body armor repairs.)",
         "Value": 800100
       },
       {
@@ -55810,35 +55810,35 @@
         "Value": 800200
       },
       {
-        "Name": "{0}% off weapon upgrades.",
+        "Name": "StatusEffectID_00_090_030_0 ({0}% off weapon upgrades.)",
         "Value": 900300
       },
       {
-        "Name": "Greatly decreases the amount of damage you receive.",
+        "Name": "StatusEffectID_00_100_000_0 (Greatly decreases the amount of damage you receive.)",
         "Value": 1000000
       },
       {
-        "Name": "Greatly increases the power of melee attacks.",
+        "Name": "StatusEffectID_00_100_010_0 (Greatly increases the power of melee attacks.)",
         "Value": 1000100
       },
       {
-        "Name": "Greatly increases the power of knife attacks.",
+        "Name": "StatusEffectID_00_100_020_0 (Greatly increases the power of knife attacks.)",
         "Value": 1000200
       },
       {
-        "Name": "+{0}% melee critical hit rate.",
+        "Name": "StatusEffectID_00_105_000_0 (+{0}% melee critical hit rate.)",
         "Value": 1050000
       },
       {
-        "Name": "All weapons can be reloaded indefinitely without\r\nusing the ammo items in your possession.",
+        "Name": "StatusEffectID_00_110_000_0 (All weapons can be reloaded indefinitely without\r\nusing the ammo items in your possession.)",
         "Value": 1100000
       },
       {
-        "Name": "Aim assist can be used regardless of game mode (difficulty).",
+        "Name": "StatusEffectID_00_120_000_0 (Aim assist can be used regardless of game mode (difficulty).)",
         "Value": 1200000
       },
       {
-        "Name": "StatusEffectID_00_130_000_0",
+        "Name": "StatusEffectID_00_130_000_0 (Enemy shields can be removed using the grappling hook gun)",
         "Value": 1300000
       }
     ]
@@ -61026,15 +61026,15 @@
         "Value": 4600
       },
       {
-        "Name": "wp4701",
+        "Name": "wp4701 (Flamethrower)",
         "Value": 4701
       },
       {
-        "Name": "wp4702",
+        "Name": "wp4702 (Flamethrower)",
         "Value": 4702
       },
       {
-        "Name": "wp4800",
+        "Name": "wp4800 (Crossbows)",
         "Value": 4800
       },
       {
@@ -61070,11 +61070,11 @@
         "Value": 5003
       },
       {
-        "Name": "wp5004",
+        "Name": "wp5004 (Water Pipes)",
         "Value": 5004
       },
       {
-        "Name": "wp5005",
+        "Name": "wp5005 (Rocks)",
         "Value": 5005
       },
       {
@@ -61082,11 +61082,11 @@
         "Value": 5006
       },
       {
-        "Name": "wp5300",
+        "Name": "wp5300 (Chainsaws)",
         "Value": 5300
       },
       {
-        "Name": "wp5301",
+        "Name": "wp5301 (Red Chainsaw)",
         "Value": 5301
       },
       {
@@ -61118,7 +61118,7 @@
         "Value": 5405
       },
       {
-        "Name": "wp5406",
+        "Name": "wp5406 (Harpoon)",
         "Value": 5406
       },
       {
@@ -61126,7 +61126,7 @@
         "Value": 5407
       },
       {
-        "Name": "wp5408",
+        "Name": "wp5408 (Flashbang-like object)",
         "Value": 5408
       },
       {
@@ -61274,11 +61274,11 @@
         "Value": 5837
       },
       {
-        "Name": "wp6000",
+        "Name": "wp6000 (Sentinel Nine)",
         "Value": 6000
       },
       {
-        "Name": "wp6001",
+        "Name": "wp6001 (Skull Crusher)",
         "Value": 6001
       },
       {
